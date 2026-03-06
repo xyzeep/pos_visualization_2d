@@ -3,7 +3,7 @@
 I tried visualizing Particle Swarm Optimization (PSO) in C using SDL. Particles move toward a goal based on their own best and the swarm’s best, and the goal can be moved with the mouse.
 
 ## Demo
-<img src="demo.gif" width = 300>
+<img src="demo.gif" width = 700>
 
 ## Requirements
 - SDL3 library installed on your system.  
